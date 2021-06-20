@@ -1,0 +1,13 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "Web API",
+  "main": "index.js",
+  "repository": "https://github.com/umarwirahadi/nodeAPI.git",
+  "author": "u.wirahadi10@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
